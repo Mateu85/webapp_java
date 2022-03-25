@@ -15,7 +15,6 @@
 ● Diseño: Se utilizará el framework Bootstrap para diseñar la aparencia de la aplicación web
 
 ***
-***
 **Otras funcionalidade**
 
 ● Login de usuarios: Implementa un sistema de login de forma que los usuarios de la web puedan iniciar/cerrar sesión.

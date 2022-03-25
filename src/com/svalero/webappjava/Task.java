@@ -6,6 +6,7 @@ public class Task {
     private String type;
     private String description;
     private String location;
+    // TODO Make it boolean Type Y/N if Yes (Y) add Amount.
     private String paid;
 
     public Task(String title, String type, String description, String paid, String location) {

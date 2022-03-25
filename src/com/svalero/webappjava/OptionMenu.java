@@ -83,6 +83,12 @@ public class OptionMenu {
 
     public void seeAllTask(){
 
+        for (Task task : TaskList){
+            System.out.println(task.getTitulo());
+            System.out.println(task.getAutor());
+            System.out.println(task.getEditorial());
+        }
+
     }
 
     public void fillUpList(){
